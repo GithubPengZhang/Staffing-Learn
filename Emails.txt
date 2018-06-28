@@ -1,0 +1,12 @@
+20 Minute Interview
+
+Dear {CANDIDATE_NAME},
+
+Thank you for your application of {JOB_TITLE}. I am available for a 20 minute phone call. {COMPANY_NAME} is based in Tampa, FL. Please use my calendly link below to find time on my calendar. I look forward to talk to you.
+
+Schedule a call with me
+https://calendly.com/pengzhang/20-minute-interview
+
+Sincerely,
+Peter
+Abroad Talent Inc.
